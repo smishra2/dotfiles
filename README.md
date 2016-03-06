@@ -22,5 +22,5 @@ You may want to consider using this with a theme or custom color settings on you
 
 ## Acknowledgements
 I stand on the shoulders of giants.
-* This repo was forked from [@ericherdzik](https://github.com/ericherdzik) (Eric Herdzik) [https://github.com/ericherdzik/dotfiles](https://github.com/ericherdzik/dotfiles)
+* This repo was originally forked from [@ericherdzik](https://github.com/ericherdzik) (Eric Herdzik) [https://github.com/ericherdzik/dotfiles](https://github.com/ericherdzik/dotfiles)
 
