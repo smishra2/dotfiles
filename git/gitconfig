@@ -1,0 +1,30 @@
+[alias]
+    trim = !git remote prune origin && git gc
+    cleanup = !git clean -df && git stash clear
+
+    # Find out who is currently active on the repository
+    # Displays committers in descending order of number of commits
+    who = shortlog --numbered --summary --email --no-merges --since="3 months"
+
+[color]
+    ui = auto
+    interactive = auto
+
+[core]
+    excludesfile = ~/.gitignore
+    attributesfile = ~/.gitattributes
+
+[credential]
+    helper = osxkeychain
+
+[diff]
+    tool = mvimdiff
+
+[difftool]
+    prompt = false
+
+[pretty]
+    nice = "%C(yellow)%h%C(reset) %C(white)%s%C(cyan)%d%C(reset) -- %an; %ar"
+
+[push]
+    default = simple

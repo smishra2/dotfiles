@@ -1,0 +1,12 @@
+#!/bin/bash
+
+# bash_aliases"
+
+# Easier navigation: .., ..., ~ and -
+alias ..="cd .."
+alias ...="cd ../.."
+alias ~="cd ~"
+alias -- -="cd -"
+
+# Set ls to use color
+alias ls="ls --color=auto"
