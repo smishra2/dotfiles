@@ -1,6 +1,6 @@
 # Dotfiles (Sachit Mishra)
 
-My bash dotfiles.
+My bash, vim, git dotfiles.
 
 
 ## How to install
