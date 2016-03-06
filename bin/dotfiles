@@ -72,7 +72,6 @@ mirrorfiles() {
     link "shell/curlrc"       ".curlrc"
     link "shell/inputrc"      ".inputrc"
     link "vim"                ".vim"
-    link "vim/gvimrc"         ".gvimrc"
     link "vim/vimrc"          ".vimrc"
 
     e_success "Dotfiles update complete!"
