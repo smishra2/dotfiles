@@ -1,0 +1,21 @@
+{
+	// White spaces and stuff
+	"draw_white_space": "selection",
+	"trim_trailing_white_space_on_save": true,
+	"ensure_newline_at_eof_on_save": true,
+
+	// Tabs and whatnot
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+
+	// Appearance
+	"font_size": 9,
+	"word_wrap": true,
+	"highlight_modified_tabs": true,
+	"rulers":
+	[
+		80,
+		100,
+		120
+	]
+}

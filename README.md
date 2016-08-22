@@ -20,6 +20,10 @@ This will overwrite any existing dotfiles you have, so back them up first! You c
 
 You may want to consider using this with a theme or custom color settings on your terminal application.
 
+## Sublime
+
+My Sublime Text preferences file is in here, but the script won't enable those preferences.
+
 ## Acknowledgements
 I stand on the shoulders of giants.
 * This repo was originally forked from [@ericherdzik](https://github.com/ericherdzik) (Eric Herdzik) [https://github.com/ericherdzik/dotfiles](https://github.com/ericherdzik/dotfiles)
